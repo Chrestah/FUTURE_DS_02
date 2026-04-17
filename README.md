@@ -58,7 +58,7 @@ business insights to support strategic decision-making.
    
    Strengthen onboarding experience to improve early-stage retention
 
-5. Dashboard Scope
+### Dashboard Scope
 
 The dashboard explores churn behavior across:
 
@@ -72,7 +72,7 @@ The dashboard explores churn behavior across:
 
 -Customer tenure
 
-6. Tools Used
+ ### Tools Used
 
 Microsoft Excel
 
